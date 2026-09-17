@@ -5,18 +5,18 @@
 Meu nome é João Vitor, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando o 2º ano do Ensino Médio e, simultaneamente, o curso técnico em Desenvolvimento de Sistemas pelo SENAI-SC.
 
 <p align="left">
-  <a href="https://github.com/jhonnDev69?tab=repositories&sort=stargazers">
+  <a href="https://github.com/JoaoVitorDaMaia?tab=repositories&sort=stargazers">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/JhonnDev69?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
   </a>
-  <a href="https://github.com/jhonnDev69?tab=followers">
+  <a href="https://github.com/JoaoVitorDaMaia?tab=followers">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/JhonnDev69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/JoaoVitorDaMaia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </p>
@@ -43,12 +43,12 @@ Meu nome é João Vitor, tenho 18 anos e sou natural de Santa Catarina. Atualmen
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jhonnDev69&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDaMaia9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     height="150" 
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnDev69&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDaMaia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     height="150" 
     alt="Top Langs"
   />
